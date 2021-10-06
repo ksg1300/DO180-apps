@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "Moin Moin this is the new ReverseBeaconNetwork Version: " . PHP_VERSION . "\n";
 ?>
